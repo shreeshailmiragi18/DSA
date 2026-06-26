@@ -3,14 +3,12 @@ class Solution {
         int left = 0;
         s = s.toLowerCase();
         s = s.replaceAll("[^a-z0-9]","");
-        int right = s.length() - 1;
-       while(left< right){
-        if(s.charAt(left) != s.charAt(right)){
-            return false;
+        int right = s.length();
+        for(int i=0;i < right/2;i++){
+            if(s.charAt(i) != s.charAt(right-1-i)){
+                return false;
+            }
         }
-        left++;
-        right--;
-       }
-       return true;
+        return true;
     }
 }

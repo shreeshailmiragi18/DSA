@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/shreeshailmiragi18/DSA/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/shreeshailmiragi18/DSA/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/shreeshailmiragi18/DSA/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/shreeshailmiragi18/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/shreeshailmiragi18/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/shreeshailmiragi18/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/shreeshailmiragi18/DSA/tree/master/1683-invalid-tweets) |

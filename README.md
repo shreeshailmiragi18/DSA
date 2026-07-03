@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shreeshailmiragi18/DSA/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/shreeshailmiragi18/DSA/tree/master/0177-nth-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/shreeshailmiragi18/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
 | ------- |

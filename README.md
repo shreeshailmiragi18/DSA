@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/shreeshailmiragi18/DSA/tree/master/0283-move-zeroes) |
 | [1539-kth-missing-positive-number](https://github.com/shreeshailmiragi18/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreeshailmiragi18/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/shreeshailmiragi18/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shreeshailmiragi18/DSA/tree/master/0344-reverse-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreeshailmiragi18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreeshailmiragi18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -129,8 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

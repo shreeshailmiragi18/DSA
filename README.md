@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/shreeshailmiragi18/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->

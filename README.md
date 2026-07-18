@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shreeshailmiragi18/DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shreeshailmiragi18/DSA/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreeshailmiragi18/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
 ## Enumeration
 |  |
 | ------- |

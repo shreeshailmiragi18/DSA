@@ -140,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreeshailmiragi18/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shreeshailmiragi18/DSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/shreeshailmiragi18/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/shreeshailmiragi18/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/shreeshailmiragi18/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |

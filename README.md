@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shreeshailmiragi18/DSA/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/shreeshailmiragi18/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/shreeshailmiragi18/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreeshailmiragi18/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shreeshailmiragi18/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/shreeshailmiragi18/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shreeshailmiragi18/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shreeshailmiragi18/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shreeshailmiragi18/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
+| [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shreeshailmiragi18/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

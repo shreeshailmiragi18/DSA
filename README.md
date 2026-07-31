@@ -124,17 +124,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/shreeshailmiragi18/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shreeshailmiragi18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreeshailmiragi18/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreeshailmiragi18/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreeshailmiragi18/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/shreeshailmiragi18/DSA/tree/master/1291-sequential-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreeshailmiragi18/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |

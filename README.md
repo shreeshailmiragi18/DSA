@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shreeshailmiragi18/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreeshailmiragi18/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shreeshailmiragi18/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreeshailmiragi18/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shreeshailmiragi18/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreeshailmiragi18/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreeshailmiragi18/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |

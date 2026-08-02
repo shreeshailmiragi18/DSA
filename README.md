@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shreeshailmiragi18/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeshailmiragi18/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreeshailmiragi18/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeshailmiragi18/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreeshailmiragi18/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |

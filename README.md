@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shreeshailmiragi18/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreeshailmiragi18/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shreeshailmiragi18/DSA/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/shreeshailmiragi18/DSA/tree/master/0459-repeated-substring-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shreeshailmiragi18/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/shreeshailmiragi18/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shreeshailmiragi18/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreeshailmiragi18/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreeshailmiragi18/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shreeshailmiragi18/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shreeshailmiragi18/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shreeshailmiragi18/DSA/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shreeshailmiragi18/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 ## Combinatorics

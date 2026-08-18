@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shreeshailmiragi18/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeshailmiragi18/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shreeshailmiragi18/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shreeshailmiragi18/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shreeshailmiragi18/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreeshailmiragi18/DSA/tree/master/0229-majority-element-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shreeshailmiragi18/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/shreeshailmiragi18/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shreeshailmiragi18/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/shreeshailmiragi18/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreeshailmiragi18/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shreeshailmiragi18/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shreeshailmiragi18/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shreeshailmiragi18/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreeshailmiragi18/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shreeshailmiragi18/DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/shreeshailmiragi18/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreeshailmiragi18/DSA/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shreeshailmiragi18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shreeshailmiragi18/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |

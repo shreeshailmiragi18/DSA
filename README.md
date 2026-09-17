@@ -270,18 +270,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shreeshailmiragi18/DSA/tree/master/0101-symmetric-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
